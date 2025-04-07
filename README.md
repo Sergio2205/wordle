@@ -1,6 +1,7 @@
 # 🌟 Wordle - JavaScript Version with p5.js
 
 This project is a clone of the popular game **Wordle**, fully developed using **JavaScript**, **p5.js**, and the **p5.quadrille.js** extension for managing a visual grid. It's a fun and educational word guessing game where the player must guess a 6-letter word in a limited number of attempts.
+![Game Screenshot](image.png)
 
 ## 🎮 How to Play
 
